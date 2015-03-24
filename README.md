@@ -1,9 +1,11 @@
 puppet-lint-classes_and_types_beginning_with_digits-check
 ===============================
 
-[![Gem Version](https://img.shields.io/gem/v/puppet-lint-classes_and_types_beginning_with_digits--check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits--check)
-[![Gem Downloads](https://img.shields.io/gem/dt/puppet-lint-classes_and_types_beginning_with_digits--check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits--check)
+[![Build Status](https://img.shields.io/travis/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://travis-ci.org/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check)
+[![Gem Version](https://img.shields.io/gem/v/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits-check)
+[![Gem Downloads](https://img.shields.io/gem/dt/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits-check)
 [![Coverage Status](https://img.shields.io/coveralls/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://coveralls.io/r/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check?branch=master)
+[![Gemnasium](https://img.shields.io/gemnasium/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://gemnasium.com/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check)
 
 A puppet-lint plugin to check for types and class names that begin with digits.
 
