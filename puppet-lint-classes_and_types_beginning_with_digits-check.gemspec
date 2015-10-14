@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
   spec.name        = 'puppet-lint-classes_and_types_beginning_with_digits--check'
   spec.version     = '0.1.0'
-  spec.homepage    = 'https://github.com/puppet-community/puppet-lint-classes_and_types_beginning_with_digits--check'
+  spec.homepage    = 'https://github.com/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check'
   spec.license     = 'Apache-2.0'
   spec.author      = 'Puppet Community'
   spec.email       = 'gary@puppetlabs.com'
