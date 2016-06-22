@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name        = 'puppet-lint-classes_and_types_beginning_with_digits--check'
+  spec.name        = 'puppet-lint-classes_and_types_beginning_with_digits-check'
   spec.version     = '0.1.1'
   spec.homepage    = 'https://github.com/puppet-community/puppet-lint-classes_and_types_beginning_with_digits-check'
   spec.license     = 'Apache-2.0'
