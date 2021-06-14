@@ -3,8 +3,7 @@ puppet-lint-classes_and_types_beginning_with_digits-check
 
 [![License](https://img.shields.io/github/license/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/blob/master/LICENSE)
 [![Test](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/test.yml/badge.svg)](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/test.yml)
-[![Release](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/release.yml/badge.svg)](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/release.ym
-l)
+[![Release](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/release.yml/badge.svg)](https://github.com/voxpupuli/puppet-lint-classes_and_types_beginning_with_digits-check/actions/workflows/release.yml)
 [![RubyGem Version](https://img.shields.io/gem/v/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits-check)
 [![RubyGem Downloads](https://img.shields.io/gem/dt/puppet-lint-classes_and_types_beginning_with_digits-check.svg)](https://rubygems.org/gems/puppet-lint-classes_and_types_beginning_with_digits-check)
 [![Donated by Puppet Inc](https://img.shields.io/badge/donated%20by-Puppet%20Inc-fb7047.svg)](#transfer-notice)
