@@ -11,6 +11,8 @@ puppet-lint-classes_and_types_beginning_with_digits-check
 
 A puppet-lint plugin to check for types and class names that begin with digits.
 
+*This repository is archived, because the plugin is obsolete since Puppet 4. A Puppet compile check should give the same error. The v1.0.0 release is the last one*
+
 ## Installing
 
 ### From the command line
